@@ -1,0 +1,39 @@
+{
+  "currency": "PKR",
+  "disclaimer": "All prices are subject to change.",
+  "maximum_discount_pct": 10,
+  "services": [
+    {
+      "code": "WEB_DESIGN",
+      "name": "Website Design",
+      "unit_price": "25000",
+      "currency": "PKR",
+      "unit": "project",
+      "category": "Web"
+    },
+    {
+      "code": "LOGO_DESIGN",
+      "name": "Logo Design",
+      "unit_price": "5000",
+      "currency": "PKR",
+      "unit": "design",
+      "category": "Branding"
+    },
+    {
+      "code": "SEO",
+      "name": "SEO Service",
+      "unit_price": "15000",
+      "currency": "PKR",
+      "unit": "service",
+      "category": "Marketing"
+    },
+    {
+      "code": "PPT_DESIGN",
+      "name": "PowerPoint Presentation Design",
+      "unit_price": "5000",
+      "currency": "PKR",
+      "unit": "presentation",
+      "category": "Branding"
+    }
+  ]
+}
